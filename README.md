@@ -3,7 +3,7 @@
 
 - 💻 I’m working as a software engineer at [LARSA](https://www.larsa4d.com/)
 
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning Machine Learning
 
 - ⚡ I love to play piano
 
@@ -18,6 +18,8 @@
 <img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
 <img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png">
 <img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png">
+<img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">
 <img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
 <img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/angular/angular.png">
 <img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/typescript/typescript.png">
@@ -33,6 +35,14 @@
 <a href="https://github.com/sfktrkl?tab=repositories">
   <img alt="Github Stats" src="https://github-readme-stats-p6gqtbynl.vercel.app/api?username=sfktrkl&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true">
   <img alt="Languages" src="https://github-readme-stats-p6gqtbynl.vercel.app/api/top-langs/?username=sfktrkl&show_icons=true&theme=tokyonight&layout=compact">
+</a>
+
+<h4 align="left">Kaggle Stats:</h4>
+<a href="https://www.kaggle.com/sfktrkl">
+  <img alt="Competition" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/sfktrkl/competition">
+  <img alt="Dataset" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/sfktrkl/dataset">
+  <img alt="Notebook" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/sfktrkl/notebook">
+  <img alt="Discussion" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/sfktrkl/discussion">
 </a>
 
 <!-- ![Profile views](https://gpvc.arturio.dev/sfktrkl) -->
