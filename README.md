@@ -33,8 +33,8 @@
 
 <h4 align="left">GitHub Stats:</h4>
 <a href="https://github.com/sfktrkl?tab=repositories">
-  <img alt="Github Stats" src="https://github-readme-stats-p6gqtbynl.vercel.app/api?username=sfktrkl&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true">
-  <img alt="Languages" src="https://github-readme-stats-p6gqtbynl.vercel.app/api/top-langs/?username=sfktrkl&show_icons=true&theme=tokyonight&layout=compact">
+  <img alt="Github Stats" src="https://github-readme-stats-p6gqtbynl.vercel.app/api?username=sfktrkl&show_icons=true&bg_color=000120&text_color=20c0ff&icon_color=fdd246&title_color=d0d0d0&border_color=ffffff&count_private=true&include_all_commits=true">
+  <img alt="Languages" src="https://github-readme-stats-p6gqtbynl.vercel.app/api/top-langs/?username=sfktrkl&show_icons=true&bg_color=000120&text_color=20c0ff&icon_color=fdd246&title_color=d0d0d0&border_color=ffffff&layout=compact">
 </a>
 
 <h4 align="left">Kaggle Stats:</h4>
