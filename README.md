@@ -33,8 +33,7 @@
 
 <h4 align="left">GitHub Stats:</h4>
 <a href="https://github.com/sfktrkl?tab=repositories">
-  <img alt="Github Stats" src="https://raw.githubusercontent.com/sfktrkl/github-stats/main/generated/overview.svg">
-  <img alt="Languages" src="https://raw.githubusercontent.com/sfktrkl/github-stats/main/generated/languages.svg">
+  <img alt="Github Stats" src="https://raw.githubusercontent.com/sfktrkl/github-stats/main/generated/overview.svg"><img alt="Languages" src="https://raw.githubusercontent.com/sfktrkl/github-stats/main/generated/languages.svg">
 </a>
 
 <!-- 
